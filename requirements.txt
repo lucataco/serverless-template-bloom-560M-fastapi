@@ -1,3 +1,4 @@
-sanic==22.6.2
-transformers
-accelerate
+fastapi==0.88.0
+transformers==4.23.1
+accelerate==0.14.0 
+uvicorn==0.20.0
